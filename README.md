@@ -1,4 +1,5 @@
 ## Hi! Hola! Salut! привет! 你好 
+![My Skills](https://skillicons.dev/icons?i=py,git,arduino,swift,docker,kubernetes,js,typescript,next,nest,react,mysql,postgres,mongodb,kafka,redis,aws,linux,)
 
 <!--
 **elarcoiris/elarcoiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
