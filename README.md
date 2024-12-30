@@ -1,5 +1,6 @@
 ## Hi... Hola... Salut... привет... 你好 
-![My Skills](https://skillicons.dev/icons?i=git,aws,linux,arduino,py,swift,docker,kubernetes,js,typescript,next,nest,react,sass,mysql,postgres,mongodb,graphql,dynamodb,kafka,redis,express,apollo)
+![My Skills](https://skillicons.dev/icons?i=git,aws,linux,arduino,py,swift,docker,kubernetes,nodejs,js,typescript,next,nest,react,npm,yarn,pnpm,html,css,sass,mysql,postgres,mongodb,graphql,dynamodb,kafka,redis,express,apollo,nginx)
+
 
 <!--
 **elarcoiris/elarcoiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
