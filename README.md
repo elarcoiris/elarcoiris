@@ -1,4 +1,4 @@
-## Hi! Hola! Salut! привет! 你好 
+## Hi... Hola... Salut... привет... 你好 
 ![My Skills](https://skillicons.dev/icons?i=git,aws,linux,arduino,py,swift,docker,kubernetes,js,typescript,next,nest,react,sass,mysql,postgres,mongodb,graphql,dynamodb,kafka,redis,express,apollo)
 
 <!--
